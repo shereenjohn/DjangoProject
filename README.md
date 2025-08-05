@@ -42,27 +42,27 @@ A Django web application featuring user authentication and CRUD operations.
 ## Screenshots
 
 ### 1. Signup Form
-![Signup Form](screenshots/Screenshot Signup.png)
+![Signup Form](screenshots/Signup.png)
 
 ### 2. Login Form  
-![Login Form](screenshots/Screenshot Login.png)
+![Login Form](screenshots/Login.png)
 
 ### 3. Success Page
-![Success Page](screenshots/Screenshot SuccessPage.png)
+![Success Page](screenshots/SuccessPage.png)
 
 ### 4. Admin Interface
-![Admin Interface](screenshots/Screenshot AdminUserDetails.png)
+![Admin Interface](screenshots/AdminUserDetails.png)
 
 ### 5. Postman API Tests
 
 #### Get All Users
-![Get All Users](screenshots/Screenshot Postman(Read All_User).png)
+![Get All Users](screenshots/Postman_Read_AllUser.png)
 
 #### Get Single User
-![Get Single User](screenshots/Screenshot Postman(Read SingleUser).png)
+![Get Single User](screenshots/Postman_Read_SingleUser.png)
 
 #### Update User
-![Update User](screenshots/Screenshot Postman(PUT_update pass).png)
+![Update User](screenshots/Postman_PUT_UpdatePassword.png)
 
 #### Delete User
-![Delete User](screenshots/Screenshot Postman(Delete user).png)
+![Delete User](screenshots/Postman_DeleteUser.png)
